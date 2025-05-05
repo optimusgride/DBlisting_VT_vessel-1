@@ -7,6 +7,7 @@ As many of you know, even a simple vertical vessel typically consists of at leas
 -	3 body components
 -	5 skirt parts (assuming a skirt is used, and yes, I count cut-outs too)
 -	4 nozzles (vent, drain, inlet, outlet)
+
 Additionally, we need at least two of the three key parameters—volume, height, and outside diameter (OD)—to calculate the missing one and define the vessel geometry.
 To build a basic vessel, say one with 1 m³ volume and 600 mm OD, it usually takes about an hour, especially for beginners. But what if we could cut that down to just one minute?
 I'm excited to share a simple Excel tool with an embedded VBA script that can automatically generate a DBlisting file for AVEVA E3D. All you need to do is input the two most important parameters—say, volume and OD—and it will do the rest.
