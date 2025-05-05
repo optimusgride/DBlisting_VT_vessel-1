@@ -26,6 +26,9 @@ How to get it
 
 You find the excel file with VBA script attached 
 
+##Contact
+For questions, open an issue in this repository or email me at optimusgride@gmail.com.
+
 ##How to support my project
 
 If you'd like to support the further development of this project, consider becoming a patron on Patreon: https://www.patreon.com/posts/vertical-vessel-128118396?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link 
