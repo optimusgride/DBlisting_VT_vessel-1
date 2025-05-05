@@ -26,10 +26,10 @@ How to get it
 
 You find the excel file with VBA script attached 
 
-##Contact
+Contact
 For questions, open an issue in this repository or email me at optimusgride@gmail.com.
 
-##How to support my project
+How to support my project
 
 To help fund my project or you want me to adapt my development for you, consider supporting me on Patreon: https://www.patreon.com/posts/vertical-vessel-128118396?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link 
 or by direct transfer to PayPal: kersonia.e@gmail.com 
