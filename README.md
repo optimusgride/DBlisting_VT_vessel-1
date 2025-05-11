@@ -1,5 +1,5 @@
-# DBlisting_VT_vessel-1
-DBlisting of vertical skirt vessel creator for E3D Aveva
+# DBlisting_VT_vessel-02
+DBlisting of vertical skirt/legs vessel creator for E3D Aveva
 
 Hello everyone,
 
@@ -17,7 +17,7 @@ I'm excited to share a simple Excel tool with an embedded VBA script that can au
 
 In column A, enter “1” to mark the rows for which you want to generate a DBlisting.
 Fill in the following parameters: Volume, Dish Type (2:1 or 4:1 for elliptical or spherical heads), Height, OD, and DN of nozzles.
-The current version supports only skirt-type support.
+The  version 02 supports  skirt-type and 3 legs support.
 Click the “Generate DBlisting” button.
 A .txt DBlisting file will be created in the same folder.
 In AVEVA E3D, select a ZONE, and drag-and-drop the .txt file into the Command Window to load the vessel.
